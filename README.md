@@ -1,5 +1,6 @@
 # BoardGameScenario
 ENG
+
 This UNO game scenario is intended for affective multi agent system macro pattern characteristic validation only. It does not implement complex strategies; only fear is elicited.
 
 To obtain data, in EmotionalAgent class code, the local paths must be specified.
@@ -8,6 +9,7 @@ In UNOboard class code, a game parameters, namely the deck order and number of c
 The personalities of agents can be changed in emotional_UNO class.
 
 LV
+
 Šis UNO galda spēles scenārijs ir paredzēts emocijās sakņotas daudzaģentu sistēmas makrošablonu raksturojumu validēšanai; tā nav pilnīga UNO spēle ar sarežģītām stratēģijām; spēlē demonstrēšanai izmantotas bailes.
 
 Lai iegūtu datus, klasē EmotionalAgent jāspecificē failu ceļi.
